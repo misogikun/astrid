@@ -1,5 +1,5 @@
 <script>
-  import "/home/astrid/Projects/astrid/src/app.css"
+  import "/src/app.css"
 </script>
 
 <style>
