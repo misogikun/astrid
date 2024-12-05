@@ -10,8 +10,12 @@
 </style>
 
 <div>
-  <h1>Hi, i am Astrid :3</h1>
-  <p>I am a 21 year old computer science student and software developer from germany. </p>
+  <img class=pfp src= "https://avatars.githubusercontent.com/u/148531582?v=4" alt="profile">
+  <div class="profile">
+      <h1>Hi, i am Astrid :3</h1>
+      <p>I am a 21 year old computer science student and software developer from germany. </p>
+  </div>
+
 </div>
 
 <div>
@@ -24,4 +28,6 @@
 <div>
   <h2>Cool stuff</h2>
   <img src="https://web.archive.org/web/20090728044138/http://de.geocities.com/sbk1503/icon/vim.vialle.love.anim.gif" alt="vim">
+  <img src="https://99gifshop.neocities.org/img/88x31.png" alt="99gifshop">
+  <img src="https://web.archive.org/web/20091027000416/http://de.geocities.com/angel_luder/images/ANIgrnFishC.gif" alt="fish">
 </div>
