@@ -52,24 +52,24 @@
 
 <div>
   <h2>Cool stuff</h2>
-  <img src="../src/images/88x31.png" alt="hiii">
-  <img src="../src/images/github.gif" alt="99gifshop">
-  <img src="../src/images/made-with-neovim.gif" alt="palestine">
-  <img src="../src/images/miku-approved.gif" alt="hiii">
-  <img src="../src/images/powered-by-nixos.png" alt="99gifshop">
-  <img src="../src/images/standwith.png" alt="palestine">
-  <img src="../src/images/transnow2.gif" alt="99gifshop">
-  <img src="../src/images/vim.vialle.love.anim.gif" alt="palestine">
-  <img src="../src/images/neofedi.gif" alt="hiii">
-  <img src="../src/images/catgirl-obsession.gif" alt="99gifshop">
-  <img src="../src/images/madeon_linux.gif" alt="palestine">
-  <img src="../src/images/debian.gif" alt="99gifshop">
-  <img src="../src/images/hl.gif" alt="palestine">
-  <img src="../src/images/wii.gif" alt="hiii">
-  <img src="../src/images/furret.gif" alt="99gifshop">
-  <img src="../src/images/poke.gif" alt="palestine">
-  <img src="../src/images/delete_twitter.gif" alt="99gifshop">
-  <img src="../src/images/bob.gif" alt="palestine">
+  <img src="./src/images/88x31.png" alt="hiii">
+  <img src="./src/images/github.gif" alt="99gifshop">
+  <img src="./src/images/made-with-neovim.gif" alt="palestine">
+  <img src="./src/images/miku-approved.gif" alt="hiii">
+  <img src="./src/images/powered-by-nixos.png" alt="99gifshop">
+  <img src="./src/images/standwith.png" alt="palestine">
+  <img src="./src/images/transnow2.gif" alt="99gifshop">
+  <img src="./src/images/vim.vialle.love.anim.gif" alt="palestine">
+  <img src="./src/images/neofedi.gif" alt="hiii">
+  <img src="./src/images/catgirl-obsession.gif" alt="99gifshop">
+  <img src="./src/images/madeon_linux.gif" alt="palestine">
+  <img src="./src/images/debian.gif" alt="99gifshop">
+  <img src="./src/images/hl.gif" alt="palestine">
+  <img src="./src/images/wii.gif" alt="hiii">
+  <img src="./src/images/furret.gif" alt="99gifshop">
+  <img src="./src/images/poke.gif" alt="palestine">
+  <img src="./src/images/delete_twitter.gif" alt="99gifshop">
+  <img src="./src/images/bob.gif" alt="palestine">
 </div>
 
 </div>
